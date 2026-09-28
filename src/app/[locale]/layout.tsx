@@ -1,21 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Cormorant_Garamond, DM_Sans } from "next/font/google";
-import { ThemeProvider } from "next-themes";
-
-const cormorant = Cormorant_Garamond({
-  weight: ["400", "600", "700"],
-  style: ["normal", "italic"],
-  subsets: ["latin"],
-  variable: "--font-display",
-  display: "swap",
-});
-
-const dmSans = DM_Sans({
-  weight: ["300", "400", "500", "600"],
-  subsets: ["latin"],
-  variable: "--font-body",
-  display: "swap",
-});
+import { HtmlLangSetter } from "@/components/HtmlLangSetter";
 
 const baseUrl = `https://${process.env.CURRENT_SITE_DOMAIN || "cruzdelcondor.com"}`;
 
@@ -157,13 +141,10 @@ export default async function LocaleLayout({
 }>) {
   const { locale } = await params;
   return (
-    <html lang={locale} suppressHydrationWarning className={`${cormorant.variable} ${dmSans.variable}`}>
-      <body className="antialiased">
-        <ThemeProvider attribute="data-theme" defaultTheme="system" enableSystem>
-          <SchemaScript locale={locale} />
-          {children}
-        </ThemeProvider>
-      </body>
-    </html>
+    <>
+      <HtmlLangSetter locale={locale} />
+      <SchemaScript locale={locale} />
+      {children}
+    </>
   );
 }
