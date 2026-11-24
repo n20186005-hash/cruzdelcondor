@@ -1,0 +1,157 @@
+{
+  "612": {
+    "hours": "04:00 - 19:00",
+    "fee": "calera",
+    "district": "Chivay"
+  },
+  "628": {
+    "hours": "06:00 - 15:00",
+    "fee": "register",
+    "district": "San antonio de chuca"
+  },
+  "629": {
+    "hours": "08:00 - 16:00",
+    "fee": "register",
+    "district": "Sibayo"
+  },
+  "631": {
+    "hours": "07:00 - 14:00",
+    "fee": "register",
+    "district": "Yanque"
+  },
+  "1337": {
+    "hours": "06:00 - 16:00",
+    "fee": "pass",
+    "district": "Callalli"
+  },
+  "1739": {
+    "hours": "06:00 - 16:30",
+    "fee": "pass",
+    "district": "Callalli"
+  },
+  "1740": {
+    "hours": "06:00 - 19:00",
+    "fee": "register",
+    "district": "Sibayo"
+  },
+  "1742": {
+    "hours": "06:00 - 16:00",
+    "fee": "register",
+    "district": "Lari"
+  },
+  "2743": {
+    "hours": "07:30 - 14:00",
+    "fee": "register",
+    "district": "Maca"
+  },
+  "3820": {
+    "hours": "06:00 - 17:00",
+    "fee": "pass",
+    "district": "Chivay"
+  },
+  "3825": {
+    "hours": "14:00 - 18:00",
+    "fee": "register",
+    "district": "Coporaque"
+  },
+  "3828": {
+    "hours": "07:00 - 12:00",
+    "fee": "pass",
+    "district": "Madrigal"
+  },
+  "3831": {
+    "hours": "06:00 - 18:00",
+    "fee": "chacapi",
+    "district": "Yanque"
+  },
+  "4695": {
+    "hours": "04:00 - 16:00",
+    "fee": "pass",
+    "district": "Cabanaconde"
+  },
+  "4701": {
+    "hours": "08:00 - 17:00",
+    "fee": "register",
+    "district": "Coporaque"
+  },
+  "4744": {
+    "hours": "07:00 - 16:00",
+    "fee": "register",
+    "district": "Yanque"
+  },
+  "4746": {
+    "hours": "08:00 - 16:30",
+    "fee": "uyo",
+    "district": "Yanque"
+  },
+  "4771": {
+    "hours": "05:00 - 17:00",
+    "fee": "register",
+    "district": "Yanque"
+  },
+  "8579": {
+    "hours": "06:00 - 15:00",
+    "fee": "register",
+    "district": "Madrigal"
+  },
+  "8581": {
+    "hours": "06:00 - 16:00",
+    "fee": "register",
+    "district": "Madrigal"
+  },
+  "12945": {
+    "hours": "06:00 - 16:00",
+    "fee": "register",
+    "district": "Cabanaconde"
+  },
+  "13754": {
+    "hours": "07:00 - 16:00",
+    "fee": "register",
+    "district": "Achoma"
+  },
+  "13808": {
+    "hours": "06:00 - 18:00",
+    "fee": "register",
+    "district": "Yanque"
+  },
+  "13810": {
+    "hours": "06:00 - 17:00",
+    "fee": "register",
+    "district": "Yanque"
+  },
+  "13867": {
+    "hours": "06:00 - 17:00",
+    "fee": "register",
+    "district": "Cabanaconde"
+  },
+  "13869": {
+    "hours": "06:00 - 16:00",
+    "fee": "pass",
+    "district": "Cabanaconde"
+  },
+  "13879": {
+    "hours": "06:00 - 21:00",
+    "fee": "pass",
+    "district": "Chivay"
+  },
+  "13881": {
+    "hours": "06:00 - 17:00",
+    "fee": "pass",
+    "district": "Tapay"
+  },
+  "14032": {
+    "hours": "08:00 - 15:00",
+    "fee": "register",
+    "district": "Sibayo"
+  },
+  "14316": {
+    "hours": "07:30 - 16:30",
+    "fee": "register",
+    "district": "Achoma"
+  },
+  "14333": {
+    "hours": "07:30 - 16:30",
+    "fee": "pass",
+    "district": "Tisco"
+  }
+}
