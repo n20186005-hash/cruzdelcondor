@@ -4,6 +4,7 @@ on:
     branches: [verify-regional-guides-152]
 permissions:
   contents: write
+  checks: read
 jobs:
   inspect:
     runs-on: ubuntu-latest
@@ -29,6 +30,32 @@ jobs:
           npm ci --no-fund --no-audit > /tmp/dependencies.log 2>&1
           npm run build > /tmp/colca-build.log 2>&1
           python ../verification/scripts/verify-colca-release.py ../verification/guide-local.json
+
+      - name: Wait for Workers deployment and verify the public domain
+        working-directory: candidate
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import json,os,pathlib,time,urllib.request
+          endpoint='https://api.github.com/repos/n20186005-hash/cruzdelcondor/commits/3995ca055601d51aabb714b5997b2038b6b44aee/check-runs'
+          for attempt in range(40):
+              req=urllib.request.Request(endpoint,headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json'})
+              try:
+                  checks=json.load(urllib.request.urlopen(req,timeout=12))['check_runs']
+              except Exception:
+                  checks=[]
+              workers=[{k:c[k] for k in ['head_sha','name','status','conclusion','details_url']} for c in checks if 'worker' in c['name'].lower() or 'cloudflare' in c['app']['name'].lower()]
+              pathlib.Path('../verification/guide-cloudflare.json').write_text(json.dumps(workers,indent=2))
+              if workers and all(c['status']=='completed' for c in workers):break
+              time.sleep(12)
+          PY
+          python ../verification/scripts/verify-colca-release.py live ../verification/guide-production.json
+      - name: Capture production layouts
+        working-directory: verification
+        run: |
+          google-chrome --headless --no-sandbox --disable-dev-shm-usage --hide-scrollbars --window-size=390,844 --virtual-time-budget=5000 --screenshot="$PWD/guide-mobile.png" 'https://www.cruzdelcondor.com/zh/nearby/uyo-uyo' > /tmp/mobile.log 2>&1
+          google-chrome --headless --no-sandbox --disable-dev-shm-usage --hide-scrollbars --window-size=1366,900 --virtual-time-budget=5000 --screenshot="$PWD/guide-desktop.png" 'https://www.cruzdelcondor.com/en/nearby/uyo-uyo' > /tmp/desktop.log 2>&1
       - name: Preserve release evidence on the verification branch
         if: always()
         working-directory: verification
@@ -37,7 +64,7 @@ jobs:
           git config user.name 'Regional guide verification'
           git config user.email 'regional-guide-check@users.noreply.github.com'
           git add guide-build.log
-          if test -e guide-local.json; then git add guide-local.json; fi
+          for item in guide-local.json guide-production.json guide-cloudflare.json guide-mobile.png guide-desktop.png; do if test -f "$item"; then git add "$item"; fi; done
           if ! git diff --cached --quiet; then
             git commit -m 'Preserve candidate build and per-route checks'
             git push origin HEAD:refs/heads/verify-regional-guides-152
