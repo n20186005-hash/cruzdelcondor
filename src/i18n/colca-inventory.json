@@ -1,0 +1,238 @@
+[
+  {
+    "id": 4746,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4746",
+    "name": "Complejo Arqueologico De Uyo Uyo",
+    "district": "YANQUE",
+    "altitude": "3417 m.s.n.m.",
+    "manager": "Ministerio de Cultura"
+  },
+  {
+    "id": 612,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=612",
+    "name": "Complejo Turístico Baños Termales La Calera",
+    "district": "CHIVAY",
+    "altitude": "3610",
+    "manager": "Municipalidad Provincial de Caylloma"
+  },
+  {
+    "id": 3831,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3831",
+    "name": "Baños Termales De Chacapi",
+    "district": "YANQUE",
+    "altitude": "3340 m.s.n.m.",
+    "manager": "Municipalidad distrital de Yanque"
+  },
+  {
+    "id": 13810,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=13810",
+    "name": "Rio Colca-Sector Yanque",
+    "district": "YANQUE",
+    "altitude": "3340 m.s.n.m.",
+    "manager": "Municipalidad Distrital de Yanque"
+  },
+  {
+    "id": 631,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=631",
+    "name": "Templo De La Inmaculada Concepción",
+    "district": "YANQUE",
+    "altitude": "3417 m.s.n.m."
+  },
+  {
+    "id": 13808,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=13808",
+    "name": "Plaza Principal De Yanque",
+    "district": "YANQUE",
+    "altitude": "3430 m.s.n.m."
+  },
+  {
+    "id": 2743,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2743",
+    "name": "Iglesia Santa Ana De Maca",
+    "district": "MACA",
+    "altitude": "3280 m.s.n.m.",
+    "manager": "Arzobispado de Arequipa"
+  },
+  {
+    "id": 3825,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3825",
+    "name": "Templo Apostol Santiago De Coporaque",
+    "district": "COPORAQUE",
+    "altitude": "3591 m.s.n.m"
+  },
+  {
+    "id": 1742,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1742",
+    "name": "Templo De La Purísima Concepción",
+    "district": "LARI",
+    "altitude": "3350 m.s.n.m.",
+    "manager": "Arzobispado de Arequipa"
+  },
+  {
+    "id": 8579,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8579",
+    "name": "Sitio Arqueologico Fortaleza Del Chimpa",
+    "district": "MADRIGAL",
+    "altitude": "3252 m.s.n.m."
+  },
+  {
+    "id": 13867,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=13867",
+    "district": "CABANACONDE",
+    "altitude": "3300 m.s.n.m.",
+    "name": "Pueblo De Cabanaconde",
+    "manager": "Municipalidad distrital de Cabanaconde"
+  },
+  {
+    "id": 13869,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=13869",
+    "name": "Mirador De San Miguel",
+    "district": "CABANACONDE",
+    "altitude": "3330 m.s.n.m.",
+    "manager": "Comunidad Campesina de Cabanaconde"
+  },
+  {
+    "id": 4695,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4695",
+    "district": "CABANACONDE",
+    "altitude": "1900 m.s.n.m.",
+    "name": "Valle De Sangalle",
+    "manager": "Municipalidad distrital de Cabanaconde y propietarios de los terrenos"
+  },
+  {
+    "id": 13881,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=13881",
+    "name": "Pueblo San Juan De Chuccho",
+    "district": "TAPAY",
+    "altitude": "2240 m.s.n.m.",
+    "manager": "Municipalidad distrital de Tapay"
+  },
+  {
+    "id": 4744,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4744",
+    "district": "YANQUE",
+    "altitude": "3417 m.s.n.m",
+    "name": "Anfiteatro De Occolle"
+  },
+  {
+    "id": 1337,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1337",
+    "name": "Castillos Encantados De Callalli",
+    "district": "CALLALLI",
+    "altitude": "3,880 msnm"
+  },
+  {
+    "id": 629,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=629",
+    "district": "SIBAYO",
+    "altitude": "3824 m.s.n.m.",
+    "name": "Iglesia San Juan Bautista",
+    "manager": "Parroquia de Sibayo"
+  },
+  {
+    "id": 1740,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1740",
+    "name": "Pueblo De Sibayo",
+    "district": "SIBAYO",
+    "altitude": "3821 m.s.n.m."
+  },
+  {
+    "id": 4771,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4771",
+    "district": "YANQUE",
+    "altitude": "4910 m.s.n.m",
+    "name": "Mirador De Patapampa",
+    "manager": "Autoridad Autónoma del Colca y Anexos -AUTOCOLCA"
+  },
+  {
+    "id": 4701,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4701",
+    "district": "COPORAQUE",
+    "altitude": "3579 m.s.n.m.",
+    "name": "Conjunto Arqueológico De San Antonio"
+  },
+  {
+    "id": 628,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=628",
+    "district": "SAN ANTONIO DE CHUCA",
+    "altitude": "4200 m.s.n.m.",
+    "name": "Bosque De Piedras De Imata"
+  },
+  {
+    "id": 3820,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3820",
+    "name": "Templo Nuestra Señora De La Asuncion",
+    "district": "CHIVAY",
+    "altitude": "3640 m.s.n.m.",
+    "manager": "Arzobispado de Arequipa"
+  },
+  {
+    "id": 12945,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=12945",
+    "name": "Geiser Pinchollo",
+    "district": "CABANACONDE",
+    "altitude": "4375 m.s.n.m."
+  },
+  {
+    "id": 1739,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1739",
+    "name": "Cuevas De Mollepunku",
+    "district": "CALLALLI",
+    "altitude": "3998 m.s.n.m.",
+    "manager": "Dirección Desconcentrada de Cultura de Arequipa"
+  },
+  {
+    "id": 14316,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=14316",
+    "name": "Templo De Los Santos Reyes",
+    "district": "ACHOMA",
+    "altitude": "3450",
+    "manager": "ARZOBISPADO DE AREQUIPA"
+  },
+  {
+    "id": 3828,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3828",
+    "name": "Iglesia De San Santiago De Madrigal",
+    "district": "MADRIGAL",
+    "altitude": "3280m.s.n.m.",
+    "manager": "Arzobispado de Arequipa"
+  },
+  {
+    "id": 13754,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=13754",
+    "name": "Mirador De Achomani - Sector San Miguel",
+    "district": "ACHOMA",
+    "altitude": "3611 m.s.n.m.",
+    "manager": "Autoridad Autónoma del Colca y Anexos -AUTOCOLCA"
+  },
+  {
+    "id": 14333,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=14333",
+    "name": "Templo De San Pedro Apostol De Tisco",
+    "district": "TISCO",
+    "altitude": "4188",
+    "manager": "ARZOBISPADO DE AREQUIPA"
+  },
+  {
+    "id": 14032,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=14032",
+    "district": "SIBAYO",
+    "altitude": "3936 m.s.n.m.",
+    "name": "Mirador De Llipta Llipta"
+  },
+  {
+    "id": 13879,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=13879",
+    "name": "Plaza Principal De Chivay",
+    "district": "CHIVAY",
+    "altitude": "3630 m.s.n.m"
+  },
+  {
+    "id": 8581,
+    "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8581",
+    "name": "Pueblo De Madrigal",
+    "district": "MADRIGAL",
+    "altitude": "3262 m.s.n.m.",
+    "manager": "Municipalidad Distrital de Madrigal"
+  }
+]
