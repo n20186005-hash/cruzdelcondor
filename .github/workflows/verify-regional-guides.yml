@@ -1,0 +1,37 @@
+name: Verify regional guide candidate
+on:
+  push:
+    branches: [verify-regional-guides-152]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Inspect official photo references
+        run: |
+          python - <<'PY'
+          import html, json, re, urllib.request
+          from concurrent.futures import ThreadPoolExecutor
+          def photos(row):
+              try:
+                  with urllib.request.urlopen(row['url'],timeout=15) as r:
+                      body = html.unescape(r.read().decode('utf-8','replace'))
+                  images = sorted(set(re.findall(r'(?i)(?:foto(?:grafia)?\.aspx\?cod=\d+|https?://[^"\s<>]+\.(?:jpe?g|webp))',body)))
+                  print('PHOTO',row['id'],json.dumps(images[:12]),flush=True)
+                  if row['id']==4746:
+                      for line in body.splitlines():
+                          if any(k in line.lower() for k in ['.aspx?cod','galeri','foto.aspx']):
+                              print('GALLERY',line.strip()[:300])
+              except Exception as exc:
+                  print('SOURCE',row['id'],type(exc).__name__)
+          with ThreadPoolExecutor(max_workers=3) as pool:
+              list(pool.map(photos,json.load(open('src/i18n/colca-inventory.json'))))
+          PY
+      - run: npm ci --no-audit --no-fund
+      - run: npm run build
