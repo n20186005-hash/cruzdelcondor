@@ -1,0 +1,158 @@
+{
+  "arch": {
+    "en": {
+      "name": "Archaeological heritage",
+      "setting": "Read the ground before the individual remains: an alignment, corner or change of level reveals a former use that is difficult to see in a single close photograph.",
+      "notice": "Use the authorised fields of view and paths. Farm boundaries, protected structures and cave surfaces must be left undisturbed.",
+      "transport": "Arrange the outward and return approach with the district where the trail begins. A viewpoint and an archaeological area can share a slope while having different entrances."
+    },
+    "es": {
+      "name": "Patrimonio arqueológico",
+      "setting": "Lea el terreno antes de acercarse a los vestigios: una alineación, esquina o diferencia de nivel explica un uso anterior que se pierde en una foto de detalle.",
+      "notice": "Use los caminos autorizados. Respete linderos agrícolas, estructuras protegidas y superficies de las cuevas.",
+      "transport": "Coordine la ida y vuelta en el distrito donde empieza el sendero. Un mirador y un sitio arqueológico pueden ocupar la misma ladera con accesos distintos."
+    },
+    "zh": {
+      "name": "考古遗产",
+      "setting": "先观察地形，再近看遗存：一道石列、转角或高差可能指出旧时用途，这些线索在单张局部照片里不易辨认。",
+      "notice": "沿允许通行的路径观察，不穿农田、不踩保护结构，不触碰洞壁。",
+      "transport": "先在步道起始的区镇安排往返。观景与考古区域可能位于同一面坡上，却使用不同入口。"
+    },
+    "qu": {
+      "name": "Ñawpa runakunap saqisqanku",
+      "setting": "Ñawpaqta allpap rikch'ayninta qhaway. Rumi siq'i, k'uchu utaq pataqa ñawpa llamk'aymanta willan; qayllamanta sapalla rikuspa mana llapanta yachankichu.",
+      "notice": "Saqisqa ñanninta puriy. Chakra saywakunata, ñawpa pirqakunata, mach'ay pirqakunata ama kuyuchiychu.",
+      "transport": "Ñan qallarina llaqtapi riyta kutiytawan allichay. Qhawana patawan ñawpa llaqta huk qhatapi kaspapas sapaq yaykunayuqmi kanku."
+    }
+  },
+  "spring": {
+    "en": {
+      "name": "Thermal bathing facility",
+      "setting": "Compare the watercourse and the constructed pools. The river and the thermal bathing installation have different uses even where they occupy the same narrow valley.",
+      "notice": "Use reception, the assigned changing area and signed pools. Leave cameras out of changing rooms. Confirm the last admission before making the return journey.",
+      "transport": "Arrange transport to the actual pool entrance. Confirm which pool your ticket covers, as local and visitor arrangements can differ."
+    },
+    "es": {
+      "name": "Complejo termal",
+      "setting": "Compare el cauce y las piscinas construidas. El río y la instalación termal tienen usos distintos aunque compartan un valle estrecho.",
+      "notice": "Use recepción, vestuarios y piscinas indicados. Evite cámaras en los vestuarios y confirme la última entrada antes del regreso.",
+      "transport": "Coordine el traslado hasta el acceso de los baños. Confirme qué piscina cubre su boleto, pues hay modalidades locales y de visitantes."
+    },
+    "zh": {
+      "name": "温泉设施",
+      "setting": "对照天然河道与人工泡池。两者同在狭窄河谷中，使用条件却不同。",
+      "notice": "依次使用接待区、更衣区和开放泡池。更衣区不摄影，安排返程前先问最后入场时间。",
+      "transport": "安排车辆到温泉实际入口。先核对门票对应哪个泡池，当地居民与游客的使用安排可能不同。"
+    },
+    "qu": {
+      "name": "Q'uñi yaku baña",
+      "setting": "Mayuta ruwasqa puzakunatawan tinkuchiy. Huk qhichwallapi kaspapas mayup yakunqa bañop q'uñi yakunqa sapaqpaqmi kanku.",
+      "notice": "Yaykunapi tapuy, nisqa wasipi p'achaykita tikray, kichasqa puzaman yaykuy. P'acha tikrana wasipi rikch'ayta ama hap'iychu.",
+      "transport": "Bañop kikiy punkunkama apanata allichay. Boletoyki mayqin puzapaq kasqanta tapuy; llaqtayoqkunapaq watukuqkunapaqpas sapaq kamachiykuna kanman."
+    }
+  },
+  "church": {
+    "en": {
+      "name": "Church and local worship",
+      "setting": "Read the church together with its square. The approach, the forecourt and the shift from ordinary street space to the nave are part of the settlement’s history as well as its architecture.",
+      "notice": "Leave entrances free during worship and processions. Verify permission for interiors, photography, towers and enclosed areas separately.",
+      "transport": "Use the district square as the meeting point. Arriving at the church door shortly before a service does not guarantee access for sightseeing."
+    },
+    "es": {
+      "name": "Templo y culto local",
+      "setting": "Lea el templo junto con su plaza. El acceso, el atrio y el paso desde la calle a la nave forman parte de la historia del poblado y de su arquitectura.",
+      "notice": "Deje los accesos libres durante el culto y las procesiones. Consulte por separado interiores, fotografías, torres y recintos cerrados.",
+      "transport": "Use la plaza distrital como punto de encuentro. Llegar al templo poco antes de una misa no garantiza acceso para la visita turística."
+    },
+    "zh": {
+      "name": "教堂与当地礼拜",
+      "setting": "把教堂与广场放在一起看。进堂路线、前庭及从普通街道到中殿的过渡，既属于建筑设计，也记录了聚落的历史。",
+      "notice": "礼拜与游行时为入口留出通道。室内参观、摄影、塔楼与封闭区域应分别询问。",
+      "transport": "可约在区镇广场会合。弥撒前抵达并不代表当时可以入内自由参观。"
+    },
+    "qu": {
+      "name": "Iglesia, llaqtap mañakunan",
+      "setting": "Iglesiata llaqtap pampantawan kuska qhaway. Kallimanta kanchaman, chaymanta ukhuman yaykuyqa llaqtap ñawpa kawsayninpa huk rak'inmi.",
+      "notice": "Misa pachapi, procesión pachapipas punkukunata kichasqata saqiy. Ukhuman yaykunapaq, rikch'ay hap'inapaq, turriman siqanapaq sapaqta tapuy.",
+      "transport": "Llaqtap hatun pampanpi tinkuy. Misa manaraq qallariqten chayayqa watukunapaq yaykuna kasqanta mana niyta munanchu."
+    }
+  },
+  "town": {
+    "en": {
+      "name": "Settlement and civic space",
+      "setting": "The public street is the best guide to the town. Compare a street corner, the open centre and the way the surrounding landscape reappears between buildings.",
+      "notice": "Families live and work around the square. Use public paths and ask before photographing people, ceremonies or private courtyards.",
+      "transport": "Start from the named district, not from a general canyon map pin. Confirm where the return vehicle will stop, especially on market or festival days."
+    },
+    "es": {
+      "name": "Poblado y espacio cívico",
+      "setting": "La calle pública ayuda a leer el pueblo. Compare una esquina, el centro abierto y el paisaje que reaparece entre los edificios.",
+      "notice": "Alrededor de la plaza viven y trabajan familias. Use pasos públicos y pida permiso antes de fotografiar personas, ceremonias o patios.",
+      "transport": "Empiece en el distrito indicado, no en un marcador genérico del cañón. Confirme dónde le recogerán, sobre todo en ferias y fiestas."
+    },
+    "zh": {
+      "name": "聚落与公共空间",
+      "setting": "沿公共街道观察城镇：比较一个街角、开阔中心和建筑之间露出的远景，就能理解为什么视线会顺着某些街巷延伸。",
+      "notice": "广场周围是当地人居住与工作的空间。请走公共通道，拍人像、仪式与私人庭院前先征得同意。",
+      "transport": "从本页点名的区镇出发，不使用泛指峡谷的地图点。遇集市与节庆时尤其要确认返程接送地点。"
+    },
+    "qu": {
+      "name": "Llaqta, llapanpa pampan",
+      "setting": "Kalliqa llaqtata riqsinapaq allinmi. Huk k'uchuta, kichasqa chawpita, wasikunap chawpinmanta rikuriq urqukunatawan tinkuchiy.",
+      "notice": "Pampap muyunpi ayllukuna tiyanku, llamk'ankutaq. Llapanpaq ñanta puriy; runakunata, raymita, wasi kanchata rikch'aypi hap'inaykipaq tapuy.",
+      "transport": "Kay qillqapi sutichasqa llaqtamanta qallariy. Qhatupi raymipipas kutina karu maypi sayananta tapuy."
+    }
+  },
+  "trail": {
+    "en": {
+      "name": "Highland or canyon walking route",
+      "setting": "Start by comparing the height of the trailhead with the destination. A point visible across the canyon or plateau may require a long return ascent or a separate road approach.",
+      "notice": "Confirm trail access, daylight and the return plan locally. Do not start a canyon descent solely because its destination can be seen from the rim.",
+      "transport": "Coordinate road access and the walking portion separately. Agree on the pickup or overnight stop before leaving an inhabited settlement."
+    },
+    "es": {
+      "name": "Camino de altura o de cañón",
+      "setting": "Compare primero la altura del inicio con el destino. Un punto visible al otro lado del cañón o de la pampa puede exigir una larga subida para volver o un acceso vial independiente.",
+      "notice": "Confirme localmente el camino, las horas de luz y el regreso. No inicie una bajada solo porque distinga el destino desde el borde.",
+      "transport": "Coordine por separado vehículo y caminata. Acuerde el recojo o alojamiento antes de dejar un centro poblado."
+    },
+    "zh": {
+      "name": "高地或峡谷步行线",
+      "setting": "先比较起点与终点的高差。隔着峡谷或高原已能看见的地点，回程仍可能需要大段爬升，或另需公路接驳。",
+      "notice": "在当地确认步道开放、日照与返程安排。不要仅因为从边缘看得见谷底就开始下行。",
+      "transport": "公路与步行分别规划。离开有人居住的城镇前约好返程接送或过夜地点。"
+    },
+    "qu": {
+      "name": "Puna utaq wayq'u purina ñan",
+      "setting": "Qallariy patata chayana patatawan tinkuchiy. Wayq'up chimpampi utaq punapi qaylla rikuriq chiqa kaspapas, kutinapaq unay wichay utaq sapaq karu ñan kanman.",
+      "notice": "Llaqtapi ñanmanta, p'unchaw k'anchaymanta, kutinamantawan tapuy. Uraypi chayana rikurillanrayku ama uraykuychu.",
+      "transport": "Karu ñanta, chaki ñantawan sapaqta allichay. Llaqtamanta manaraq lluqsichkaspa kutina karuta utaq puñuna wasita takyachiy."
+    }
+  },
+  "land": {
+    "en": {
+      "name": "Natural landscape",
+      "setting": "A change of viewing angle tells more than a close approach. Use two points on the established path to compare the foreground with the larger valley or highland setting.",
+      "notice": "Stay on existing paths and follow local access signs. Confirm the approach after rain or a change in weather, especially on remote ground.",
+      "transport": "Plan the road journey and the final walk separately. Ask the local contact to identify where the walking route actually starts."
+    },
+    "es": {
+      "name": "Paisaje natural",
+      "setting": "Cambiar el ángulo aporta más que acercarse demasiado. Compare dos puntos de la senda para relacionar el primer plano con el valle o la pampa que lo rodea.",
+      "notice": "Use los caminos existentes y respete las señales. Confirme el acceso después de lluvias o cambios de tiempo, especialmente en lugares alejados.",
+      "transport": "Planifique por separado el traslado y el tramo a pie. Pida al contacto local que indique el punto real de inicio."
+    },
+    "zh": {
+      "name": "自然景观",
+      "setting": "换一个观察角度，往往比走得更近收获更多。沿已有步道选择两处位置，比较近处地貌与大范围河谷或高原的关系。",
+      "notice": "留在既有路径，遵守当地标识。近期降雨或天气变化后，尤其要确认偏远地点的进出条件。",
+      "transport": "公路接驳与最后一段步行分别规划，并请当地人员指出步行实际起点。"
+    },
+    "qu": {
+      "name": "Pachap rikch'aynin",
+      "setting": "Asllata kuyurispa iskay chiqmanta qhaway. Kikin ñanmanta qayllapi kaqta karupi wayq'uta utaq punatawan tinkuchiy.",
+      "notice": "Kaq ñankunallapi puriy; llaqtap unanchankunata qatiy. Para qhepapi utaq pacha tikrakuptin yaykunamanta tapuy, aswanraq karu chiqkunapi.",
+      "transport": "Karupi riyta chakipi riytawan sapaqta allichay. Purina chiqa maypi qallarin chayta llaqta runata tapuy."
+    }
+  }
+}

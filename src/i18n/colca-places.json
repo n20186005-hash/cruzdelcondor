@@ -1,0 +1,777 @@
+{
+  "uyo-uyo": {
+    "id": "4746",
+    "category": "arch",
+    "name": {
+      "en": "Uyo Uyo archaeological complex",
+      "es": "Complejo Arqueologico De Uyo Uyo",
+      "zh": "乌约乌约考古遗址",
+      "qu": "Uyo Uyo ñawpa llaqta"
+    },
+    "photo": {
+      "en": "Frame a house corner and the slope beyond from the visitor path.",
+      "es": "Desde el sendero encuadre una esquina doméstica y la ladera detrás.",
+      "zh": "从游客步道把民居墙角与后方坡地放进同一画面。",
+      "qu": "Ñanmanta wasip k'uchunta qhepanpi qhatatawan rikch'aypi hap'iy."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291615",
+    "width": 314,
+    "height": 235,
+    "discover": {
+      "en": "A house plan is easier to recognise by tracing two adjoining walls than by staring at one pile of stone. The settlement occupied an almost level patch between two watercourses; look beyond the walls to see how a shelf of usable ground breaks the hillside.",
+      "es": "Para leer una vivienda siga dos muros contiguos, en lugar de mirar un solo montón de piedra. El asentamiento ocupó un rellano entre dos cursos de agua; observe cómo ese suelo utilizable interrumpe la pendiente.",
+      "zh": "沿两段相连的墙基走，比盯着一堆石头更容易读出住宅平面。聚落位于两条水道之间近乎平坦的一段坡地。把视线从石墙移到坡面，就能看到为何这里适合居住。",
+      "qu": "Huk wasi kasqanta yachanaykipaq iskay tinkisqa pirqata qhaway. Llaqtaqa iskay mayup chawpinpi pampachapi karqan. Pirqamanta qhataman qhawaspa maypi wasi ruwana allpa kasqanta rikuy."
+    }
+  },
+  "la-calera": {
+    "id": "612",
+    "category": "spring",
+    "name": {
+      "en": "La Calera thermal baths",
+      "es": "Complejo Turístico Baños Termales La Calera",
+      "zh": "拉卡莱拉温泉",
+      "qu": "La Calera q'uñi yaku"
+    },
+    "photo": {
+      "en": "Photograph the entrance and mountain setting; leave bathers out of the frame.",
+      "es": "Fotografíe el acceso con las montañas, dejando fuera a los bañistas.",
+      "zh": "可拍入口与山景，避开入浴者。",
+      "qu": "Yaykunata urqukunatawan rikch'aypi hap'iy; bañakuq runakunata ama hap'iychu."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614947",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "The pools at La Calera are numbered. Read the number on the ticket or at reception before putting belongings away: the five pools have different user arrangements and a general photograph of the complex does not identify your entry point.",
+      "es": "Las piscinas de La Calera tienen número. Léalo en recepción antes de guardar sus cosas: las cinco piscinas tienen condiciones distintas y una foto general no identifica la entrada que le corresponde.",
+      "zh": "这里的池区按号码划分。收好行李、换衣服前先看票面或接待处给的编号；五个池区的使用安排不同，一张温泉全景图不足以判断该走哪个入口。",
+      "qu": "La Calera puzakuna yupayniyuqmi. Imaykikunata manaraq waqaychachkaspa yaykunapi yupayta qhaway. Pichqa puzakunapaq sapaq kamachiy kan; mayqin punkuman rinaykita tapuy."
+    }
+  },
+  "chacapi": {
+    "id": "3831",
+    "category": "spring",
+    "name": {
+      "en": "Chacapi thermal baths",
+      "es": "Baños Termales De Chacapi",
+      "zh": "查卡皮温泉",
+      "qu": "Chacapi q'uñi yaku"
+    },
+    "photo": {
+      "en": "From the public bridge approach, show the river and the position of the baths.",
+      "es": "Desde el acceso público al puente muestre el río y la posición de los baños.",
+      "zh": "在通桥的公共道路上拍河流与浴场的相对位置。",
+      "qu": "Chakaman riq ñanmanta mayuta bañokunap kasqanta qhaway."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=494962",
+    "width": 1200,
+    "height": 800,
+    "discover": {
+      "en": "From the town approach the first landmark is the crossing, rather than the bathing pool. Looking upstream and downstream before turning toward the complex helps orient a return walk to Yanque after changing back into dry clothes.",
+      "es": "Desde el pueblo la primera referencia es el cruce. Mire río arriba y río abajo antes de dirigirse al complejo: al salir del vestuario resultará más fácil reconocer el regreso a Yanque.",
+      "zh": "从镇内走来时，先认桥，比先找泡池更好定位。转入温泉前分别望向上、下游看一眼，换回干衣后便容易找到回扬克的方向。",
+      "qu": "Llaqtamanta hamuspa chakata ñawpaqta riqsiy. Bañoman manaraq yaykuchkaspa mayu wichayta uraytawan qhaway. Ch'aki p'achaykiwan Yanqueman kutina ñanta chhayna tarinki."
+    }
+  },
+  "rio-colca-yanque": {
+    "id": "13810",
+    "category": "land",
+    "name": {
+      "en": "Colca River at Yanque",
+      "es": "Rio Colca-Sector Yanque",
+      "zh": "科尔卡河扬克段",
+      "qu": "Yanquepi Colca mayu"
+    },
+    "photo": {
+      "en": "Include a strip of cultivated slope above the riverbank.",
+      "es": "Incluya un tramo de ladera cultivada sobre la ribera.",
+      "zh": "把岸上的耕地保留在河水上方。",
+      "qu": "Mayu patap hawanpi tarpusqa chakrata rikch'aypi churay."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615597",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "Water moving through Yanque does not belong to an isolated canyon stream. The Colca is part of the wider Colca–Majes–Camaná basin reaching the Pacific; the local fields and banks are a small, readily observable part of that long system.",
+      "es": "El agua que pasa por Yanque pertenece a la cuenca Colca–Majes–Camaná que llega al Pacífico. Orillas y campos locales permiten ver un pequeño tramo de ese sistema mucho más extenso.",
+      "zh": "经过扬克的河水属于一路通向太平洋的科尔卡—马赫斯—卡马纳水系。脚下的河岸和坡上农田，是那条长水系中可以近距离观察的一小段。",
+      "qu": "Yanquepi puriq yakuqa Colca–Majes–Camaná mayukunawan Mama Quchaman chayan. Kay mayu patapi, chakrakunapi chay suni mayup huk rak'illanta kaypi rikunki."
+    }
+  },
+  "iglesia-yanque": {
+    "id": "631",
+    "category": "church",
+    "name": {
+      "en": "Church of the Immaculate Conception, Yanque",
+      "es": "Templo De La Inmaculada Concepción",
+      "zh": "扬克无玷始胎教堂",
+      "qu": "Yanquep Inmaculada Concepción iglesian"
+    },
+    "photo": {
+      "en": "Photograph the carved entrance straight on after taking the broader plaza view.",
+      "es": "Tome primero la plaza y después la portada de frente.",
+      "zh": "先拍广场广角，再正对入口雕刻取景。",
+      "qu": "Ñawpaqta pampata, chaymanta punkuta ñawpaqninmanta rikch'aypi hap'iy."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613732",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "Start with the overall symmetry, then choose just one carved section beside the doorway. Comparing the detailed stonework with the plain open ground of the plaza makes clear why the façade reads so strongly from a distance.",
+      "es": "Vea primero la simetría y elija luego una sola talla junto al portal. Al compararla con el espacio abierto y sobrio de la plaza se entiende por qué destaca la portada desde lejos.",
+      "zh": "先看立面的整体对称，再只选门旁一块雕刻细看。将这类繁复石工与朴素开阔的广场地面比较，就能理解为何隔着广场也能清楚辨认教堂入口。",
+      "qu": "Ñawpaqta iskay ladon tupasqanta qhaway. Chaymanta punku qayllapi huk llaqllasqa rumillata qhaway. Kichasqa pampawan tinkuchispa karumantapas punku imarayku rikurin chayta yachanki."
+    }
+  },
+  "plaza-yanque": {
+    "id": "13808",
+    "category": "town",
+    "name": {
+      "en": "Yanque main square",
+      "es": "Plaza Principal De Yanque",
+      "zh": "扬克主广场",
+      "qu": "Yanquep hatun pampan"
+    },
+    "photo": {
+      "en": "Put a street corner in the foreground to show how the town opens into the square.",
+      "es": "Use una esquina en primer plano para mostrar la apertura de la plaza.",
+      "zh": "把街角放在前景，呈现街巷如何通向广场。",
+      "qu": "Ñawpaqpi kalli k'uchuta churay, imayna pampaman yaykun chayta rikuchinaykipaq."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615600",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "An open square changes with the hour. First make a small circuit to locate exits and the church, then choose a place at the edge to watch everyday movement without standing in front of doors or performers.",
+      "es": "La plaza cambia con la hora. Dé una vuelta breve para ubicar calles y templo; después observe desde el borde sin colocarse delante de puertas ni de artistas.",
+      "zh": "广场的用途会随时段变化。先绕一小圈认清出口和教堂，再在外围找一处停留，观察人们如何穿行，不堵门口或表演者前方。",
+      "qu": "Pampapi sapa pacha huk hina puriy kan. Kallikunata iglesiatawan riqsinaykipaq asllata muyuy. Chaymanta patanmanta runakunap puriyninta qhaway, punkukunata ama hark'aychu."
+    }
+  },
+  "santa-ana-maca": {
+    "id": "2743",
+    "category": "church",
+    "name": {
+      "en": "Santa Ana Church, Maca",
+      "es": "Iglesia Santa Ana De Maca",
+      "zh": "马卡圣安娜教堂",
+      "qu": "Macap Santa Ana iglesian"
+    },
+    "photo": {
+      "en": "Stand back in the plaza until both towers fit without tilting the camera.",
+      "es": "Retroceda en la plaza hasta que entren las dos torres sin inclinar la cámara.",
+      "zh": "在广场上退后，直到两座塔都能容入画面。",
+      "qu": "Pampapi qhepaman riy, iskay turri rikch'ayman yaykunankama."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=617359",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "Separate architectural scale from ornament. The twin towers can be compared across the open space, but the carving belongs to the closer view. Moving between both positions gives a more useful reading than staying beside one tower.",
+      "es": "Distinga escala y decoración. Las torres se comparan desde la plaza; la ornamentación se descubre al acercarse. Alternar los dos puntos explica más que permanecer junto a una torre.",
+      "zh": "先分开观察尺度与装饰。两座塔的比例适合从开阔处比较，而雕刻细节需要走近。往返这两处取景点，比站在一座塔下更能理解建筑。",
+      "qu": "Pampamanta iskay turrip sayayninta tinkuchiy. Punkuman asuykuspa llaqllasqa rumikunata qhaway. Iskay chiqmanta qhawayqa huk turri qayllapi sayayllamanta aswan allinmi."
+    }
+  },
+  "santiago-coporaque": {
+    "id": "3825",
+    "category": "church",
+    "name": {
+      "en": "Santiago Apóstol Church, Coporaque",
+      "es": "Templo Apostol Santiago De Coporaque",
+      "zh": "科波拉克圣雅各教堂",
+      "qu": "Coporaquep Santiago Apóstol iglesian"
+    },
+    "photo": {
+      "en": "At the bottom step, include the stair rise and the niches above it.",
+      "es": "Desde el primer escalón incluya el desnivel y las hornacinas de la portada.",
+      "zh": "从最低的台阶把高差与上方壁龛一并纳入。",
+      "qu": "Uray patamanta patakunata hanaqpi t'oqokunatawan rikch'aypi hap'iy."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291944",
+    "width": 806,
+    "height": 534,
+    "discover": {
+      "en": "The rise above the square makes the front resemble a staged composition. Pause at an intermediate step: the niches are now easier to distinguish, while the lower part of the village square is still visible behind you.",
+      "es": "El desnivel da a la portada un carácter escénico. Deténgase a mitad de la escalera: ya se distinguen las hornacinas y todavía se ve la plaza más abajo.",
+      "zh": "广场与立面之间的高差使入口像分层展开的舞台。在台阶中段停一下，既能看清上方壁龛，又能回望较低的村镇广场。",
+      "qu": "Patachaq chawpinpi sayay. Chaymanta pirqap t'oqokunan aswan sut'i rikurin, qhepaykipitaq uray pampata rikullankitaq."
+    }
+  },
+  "iglesia-lari": {
+    "id": "1742",
+    "category": "church",
+    "name": {
+      "en": "Purísima Concepción Church, Lari",
+      "es": "Templo De La Purísima Concepción",
+      "zh": "拉里圣母无玷始胎教堂",
+      "qu": "Larip Purísima Concepción iglesian"
+    },
+    "photo": {
+      "en": "Try one oblique exterior view, which shows the depth of the church behind the front.",
+      "es": "Haga una toma oblicua del exterior para mostrar el fondo del templo.",
+      "zh": "从外侧斜拍，看出立面后方的建筑纵深。",
+      "qu": "Huk ladomanta qhaway, iglesiap sunin rikurinanpaq."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620304",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "The lower square provides the clear reference line for judging the height of this eighteenth-century building. Try reading the long external wall before concentrating on the entrance; it is the volume of the nave that gives the church its presence.",
+      "es": "La plaza inferior permite medir la escala del edificio del siglo XVIII. Observe primero el muro longitudinal: el volumen de la nave explica su presencia tanto como el ingreso.",
+      "zh": "下方广场为观察这座十八世纪建筑的高度提供了参照线。不妨先看长墙而不是大门，中殿体量本身正是它为何显眼的重要原因。",
+      "qu": "Uray pampamanta ñawpa iglesiap sayayninta rikuy atinki. Punkuta manaraq qhawachkaspa suni pirqanta qhaway; hatun wasi kasqan chaymanta aswan sut'i rikurin."
+    }
+  },
+  "fortaleza-chimpa": {
+    "id": "8579",
+    "category": "arch",
+    "name": {
+      "en": "Chimpa fortress",
+      "es": "Sitio Arqueologico Fortaleza Del Chimpa",
+      "zh": "奇姆帕堡垒",
+      "qu": "Chimpa pukara"
+    },
+    "photo": {
+      "en": "Photograph the valley through an opening in the walls without climbing on them.",
+      "es": "Encuadre el valle desde una abertura sin subir a los muros.",
+      "zh": "利用城墙之间的开口取景，无须站上墙体。",
+      "qu": "Pirqap kichasqa chiqninta wayq'uta qhaway, pirqaman ama siqaychu."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543427",
+    "width": 1200,
+    "height": 800,
+    "discover": {
+      "en": "Choose a gap between two lengths of wall and look toward the ground below. The angle makes the defensive choice of a high position apparent. Loose stones on the wall are part of the monument, not convenient steps for a photograph.",
+      "es": "Desde una abertura entre muros observe el terreno inferior. El ángulo explica la ventaja de la posición elevada. Las piedras sueltas forman parte del monumento, no son escalones para fotos.",
+      "zh": "从两段石墙之间的开口俯看低处，能直观理解高地的防御优势。墙上的松石仍是遗址的一部分，不宜当作摄影台阶。",
+      "qu": "Iskay pirqap chawpinmanta uray allpata qhaway. Hanaqpi kaspa imayna urayta rikurqanku chayta yachanki. Kacharisqa rumikunapas ñawpa pukarap rak'inmi; ama saruychu."
+    }
+  },
+  "cabanaconde": {
+    "id": "13867",
+    "category": "town",
+    "name": {
+      "en": "Cabanaconde village",
+      "es": "Pueblo De Cabanaconde",
+      "zh": "卡瓦纳孔德镇",
+      "qu": "Cabanaconde llaqta"
+    },
+    "photo": {
+      "en": "Use a street leading out of the square to frame the agricultural landscape.",
+      "es": "Una calle que sale de la plaza permite enmarcar el entorno agrícola.",
+      "zh": "用走出广场的街道框住外围农业景观。",
+      "qu": "Pampamanta lluqsiq kallinta chakrakunata qhaway."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=622849",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "Set the canyon map aside for a moment and use the plaza as the centre of a working town. Watch which streets lead toward fields and which bring people back to the square; that distinction helps explain Cabanaconde beyond its role as a trekking departure point.",
+      "es": "Tome la plaza como centro de un pueblo en actividad. Distinga las calles que llevan a las chacras de las que devuelven gente a la plaza: Cabanaconde se entiende así más allá del inicio del trekking.",
+      "zh": "暂时放下峡谷路线图，把广场当作一个生活城镇的中心。辨认通向耕地和引人回到广场的街道，就会看出这里不只是徒步客的出发点。",
+      "qu": "Wayq'up mapanta asllata saqiy. Hatun pampamanta mayqin kallikuna chakraman rinku, mayqinkunataq runakunata kutichinku, chayta qhaway. Cabanacondeqa kawsayniyuq llaqtam."
+    }
+  },
+  "mirador-san-miguel": {
+    "id": "13869",
+    "category": "trail",
+    "name": {
+      "en": "San Miguel lookout",
+      "es": "Mirador De San Miguel",
+      "zh": "圣米格尔观景台",
+      "qu": "San Miguel qhawana pata"
+    },
+    "photo": {
+      "en": "From inside the viewpoint include a switchback so the canyon has a visible scale.",
+      "es": "Desde dentro del mirador incluya un zigzag que dé escala al cañón.",
+      "zh": "在观景区内把一段折线步道纳入峡谷全景。",
+      "qu": "Qhawana patamanta qinqu ñanta rikch'ayman churay, wayq'up hatun kaynin rikurinanpaq."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615006",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "The lookout gives a plan view of a path that feels very different on foot. Identify the first descent and its turns, then look back at the rim: that reverse view is the climb an out-and-back walker must account for.",
+      "es": "Desde el mirador se ve en planta un sendero que cambia mucho al caminarlo. Localice las primeras curvas y vuelva la vista al borde: ese desnivel deberá recuperarse al regreso.",
+      "zh": "从高处看，步道像地图上的一条线；真正步行时感受完全不同。先找最初几个回头弯，再回头看边缘高度，那正是往返者必须爬回去的路。",
+      "qu": "Hawamanta ñan siq'illaman rikch'akun. Ñawpaq qinqukunata qhaway, chaymantataq patata rikuy. Kutina p'unchaw chay wichaytan purinki."
+    }
+  },
+  "sangalle": {
+    "id": "4695",
+    "category": "trail",
+    "name": {
+      "en": "Sangalle valley",
+      "es": "Valle De Sangalle",
+      "zh": "桑加列谷地",
+      "qu": "Sangalle qhichwa"
+    },
+    "photo": {
+      "en": "From a permitted trail bend, contrast the green floor with the dry canyon wall.",
+      "es": "En una curva permitida contraste el fondo verde con la pared seca.",
+      "zh": "从开放弯道对照绿色谷底与干燥峡壁。",
+      "qu": "Ñanpa qinqunpi q'umer pampata ch'aki qhatatawan tinkuchiy."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=623444",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "The contrast between green vegetation and the dry canyon walls can hide the depth of the descent in photographs. Compare a bend in the path with the valley floor to get a truer sense of the distance involved.",
+      "es": "El verde del fondo y la pared seca contrastan tanto que en una foto se pierde la profundidad. Compare una curva del sendero con el fondo para estimar mejor el descenso.",
+      "zh": "谷底绿地与干燥岩壁的颜色反差很大，照片里反而容易低估深度。用步道上的一个转折与谷底位置对照，能更实际地估量下坡距离。",
+      "qu": "Q'umer pampawan ch'aki qhata t'aqasqa rikurinku. Rikch'aypi karu kaynin mana allin rikurinchu. Ñanpa huk qinqunta uray pampatawan tinkuchiy."
+    }
+  },
+  "san-juan-de-chuccho": {
+    "id": "13881",
+    "category": "trail",
+    "name": {
+      "en": "San Juan de Chuccho village",
+      "es": "Pueblo San Juan De Chuccho",
+      "zh": "圣胡安德丘乔村",
+      "qu": "San Juan de Chuccho llaqta"
+    },
+    "photo": {
+      "en": "Take a wide view from the approach rather than pointing a camera into family courtyards.",
+      "es": "Tome una vista amplia desde la llegada sin apuntar a patios familiares.",
+      "zh": "从进村路径拍全景，避开家庭院落。",
+      "qu": "Llaqtaman chayana ñanmanta rikch'ayta hap'iy, ayllu kanchakunata ama hap'iychu."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=623117",
+    "width": 675,
+    "height": 900,
+    "discover": {
+      "en": "A trekking itinerary can make the settlement appear only as a waypoint. Allow a separate pause on a public lane to see where the path meets homes, and ask residents where walkers should continue rather than following a shortcut across their land.",
+      "es": "Un itinerario puede reducir el pueblo a un punto de paso. Deténgase en una calle pública para observar dónde el sendero llega a las casas y pregunte la continuación sin cruzar terrenos familiares.",
+      "zh": "行程表容易把村庄简化成一个中途站。可在公共道路稍停，观察徒步线如何接入住宅区；下一段向居民问清，不为抄近路穿越院地。",
+      "qu": "Ñan qillqapi llaqtaqa huk sayanallaman rikch'akun. Kallipi sayaspa ñan wasikunaman chayasqanta qhaway; ayllup allpanta mana chimpaspa qatiq ñanta tapuy."
+    }
+  },
+  "andenes-occolle": {
+    "id": "4744",
+    "category": "arch",
+    "name": {
+      "en": "Occolle agricultural terraces",
+      "es": "Anfiteatro De Occolle",
+      "zh": "奥科列梯田",
+      "qu": "Occolle pata chakrakuna"
+    },
+    "photo": {
+      "en": "Choose a public high point so several curved terraces can be seen together.",
+      "es": "Elija un punto público elevado para juntar varios andenes curvos.",
+      "zh": "从公共高处拍出多层梯田的连续弧线。",
+      "qu": "Llapanpaq hanaq patamanta achka muyu chakra patakunata qhaway."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495214",
+    "width": 600,
+    "height": 900,
+    "discover": {
+      "en": "Each curve changes level while holding a strip of usable ground. Follow one arc visually from end to end before comparing the next; the comparison reveals agricultural design more clearly than the nickname “Inca coliseum”.",
+      "es": "Cada curva conserva una franja cultivable a distinta altura. Siga con la vista un arco completo antes de compararlo con el siguiente; se entiende mejor el diseño agrícola que con el apodo «coliseo inca».",
+      "zh": "每道弧线都在不同高度托出一条可利用的土地。先用目光追完一道，再与下一道比较，更能看懂梯田的农用设计，而非只从“印加竞技场”的别称去想象。",
+      "qu": "Sapa muyu patapi tarpunapaq allpa kan. Ñawiykiwan huk muyuta tukukuyninkama qatipay, chaymanta hukninwan tinkuchiy. Chhayna chakra ruwasqankuta yachanki."
+    }
+  },
+  "castillos-callalli": {
+    "id": "1337",
+    "category": "land",
+    "name": {
+      "en": "Callalli stone castles",
+      "es": "Castillos Encantados De Callalli",
+      "zh": "卡亚利石堡岩群",
+      "qu": "Callalli rumi kastillukuna"
+    },
+    "photo": {
+      "en": "Separate two pinnacles against the sky by moving along the path.",
+      "es": "Separe dos pináculos contra el cielo desplazándose por la senda.",
+      "zh": "沿步道换位，让两座石峰在天空背景下分开。",
+      "qu": "Ñanta asllata purispa iskay rumi umakunata t'aqasqata qhaway."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292736",
+    "width": 394,
+    "height": 260,
+    "discover": {
+      "en": "These towers suggest buildings only when seen from certain angles. Choose one protruding rock, walk a few paces along the trail, and notice how it merges with another formation; the “castle” is a way of reading the landscape.",
+      "es": "Las torres recuerdan edificios solo desde ciertos ángulos. Elija una roca saliente y avance unos pasos: al unirse visualmente con otra se entiende que el «castillo» es una lectura del paisaje.",
+      "zh": "这些岩塔从某些角度才像建筑。选一块凸出的石头，沿路移动几步，看它如何在视线上并入另一块岩体，就会理解“城堡”是人们阅读自然轮廓的方式。",
+      "qu": "Huk sayaq rumita akllay. Ñanta aslla purispa huk rumiwan hukllaman rikuriskanta qhaway. Kastillu nisqanqa runap rumikunata qhawasqanmi."
+    }
+  },
+  "san-juan-sibayo": {
+    "id": "629",
+    "category": "church",
+    "name": {
+      "en": "San Juan Bautista Church, Sibayo",
+      "es": "Iglesia San Juan Bautista",
+      "zh": "锡瓦约圣若翰洗者教堂",
+      "qu": "Sibayop San Juan Bautista iglesian"
+    },
+    "photo": {
+      "en": "Use the square side for an uninterrupted view of the stone front.",
+      "es": "Desde el lado de la plaza se aprecia la fachada de piedra completa.",
+      "zh": "从广场一侧拍完整的石砌立面。",
+      "qu": "Pampap ladonmanta rumi ñawpaq pirqata hunt'ata qhaway."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=558368",
+    "width": 1200,
+    "height": 800,
+    "discover": {
+      "en": "The church belongs to a village distinguished by stone buildings. Compare its monumental entrance with the scale of a nearby domestic doorway. The material may look related even though the two buildings serve very different purposes.",
+      "es": "El templo forma parte de un pueblo de piedra. Compare la escala de su entrada con una puerta doméstica cercana: el material las relaciona aunque sus usos sean diferentes.",
+      "zh": "教堂所在村镇以石建闻名，可把教堂门口与附近普通住宅的门比较。两者在材料上有所呼应，建筑尺度与用途却截然不同。",
+      "qu": "Iglesiap hatun punkunta qayllapi wasip punkuntawan tinkuchiy. Iskayninpi rumi kanman, ichaqa huknin mañakunapaq, huknintaq ayllup tiyananpaq."
+    }
+  },
+  "pueblo-sibayo": {
+    "id": "1740",
+    "category": "town",
+    "name": {
+      "en": "Sibayo stone village",
+      "es": "Pueblo De Sibayo",
+      "zh": "锡瓦约石屋镇",
+      "qu": "Sibayo Rumi Llaqta"
+    },
+    "photo": {
+      "en": "Look along a public lane to show the repeating stone fronts.",
+      "es": "Mire a lo largo de una calle pública para mostrar la secuencia de fachadas pétreas.",
+      "zh": "沿公共街道取景，表现连续石屋的节奏。",
+      "qu": "Kallip suninmanta sapa rumi wasip ñawpaq pirqanta qhaway."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545051",
+    "width": 1200,
+    "height": 800,
+    "discover": {
+      "en": "A continuous view down a lane shows what a close study of one façade misses: the repetition of stone walls is a characteristic of the settlement as a whole. Look from public ground and respect houses still in daily use.",
+      "es": "La vista larga de una calle revela algo que se pierde al mirar una sola fachada: los muros de piedra se repiten en todo el poblado. Observe desde la vía pública y respete las casas habitadas.",
+      "zh": "沿街纵向看，能发现只拍单栋立面时容易忽略的特征：连续石墙构成了整座村镇的风貌。请从公共道路观察，住宅仍有人日常使用。",
+      "qu": "Huk wasillata qhawaspa mana llapan llaqtata riqsinkichu. Kallip suninta qhawaspa achka rumi pirqakuna qatipanakuqta rikunki. Runakuna chay wasikunapi tiyanku."
+    }
+  },
+  "patapampa": {
+    "id": "4771",
+    "category": "trail",
+    "name": {
+      "en": "Patapampa lookout",
+      "es": "Mirador De Patapampa",
+      "zh": "帕塔潘帕观景台",
+      "qu": "Patapampa qhawana pata"
+    },
+    "photo": {
+      "en": "Keep the designated stopping area in the foreground and the line of peaks beyond.",
+      "es": "Incluya la zona de parada y, al fondo, la hilera de cumbres.",
+      "zh": "在指定停车区内以前景平台与远处群峰构图。",
+      "qu": "Sayana pampata ñawpaqpi, urqu umakunata qhepapi churay."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=542800",
+    "width": 1200,
+    "height": 800,
+    "discover": {
+      "en": "At this altitude the horizon is easier to enjoy in a short, unhurried stop than in an improvised hike. Use the viewpoint signs to connect a name with a peak, then check the same peak again from beside the vehicle.",
+      "es": "A esta altura conviene una parada breve y pausada. Use las señales para relacionar nombre y cumbre, y vuelva a localizar la misma montaña junto al vehículo.",
+      "zh": "这里海拔很高，短暂停留、缓慢观察往往比临时加徒步更合适。用观景标识把名称与山峰对上，再回到车边重新找一次同一座峰。",
+      "qu": "Kay hanaqpi asllata sumaqta sayay allinmi. Unanchapi sutita ñawirispa urqu umatataq qhaway. Karuman kutispa kikin urquta wakmanta taripay."
+    }
+  },
+  "san-antonio-coporaque": {
+    "id": "4701",
+    "category": "arch",
+    "name": {
+      "en": "San Antonio archaeological settlement",
+      "es": "Conjunto Arqueológico De San Antonio",
+      "zh": "圣安东尼奥考古聚落",
+      "qu": "San Antonio ñawpa llaqta"
+    },
+    "photo": {
+      "en": "Use a side view to show how the foundations step down the slope.",
+      "es": "Desde un costado muestre cómo los cimientos escalonan la ladera.",
+      "zh": "从侧面表现建筑地基如何随山坡逐层下降。",
+      "qu": "Huk ladomanta wasi tiqsikuna qhatata qatinku chayta qhaway."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546140",
+    "width": 1200,
+    "height": 733,
+    "discover": {
+      "en": "The archaeological remains are spread over uneven slopes rather than laid out on one flat museum floor. Choose two groups at different heights and compare their relationship to the hillside before concentrating on individual stones.",
+      "es": "Los restos ocupan laderas irregulares, no una superficie plana. Elija dos conjuntos a distinta altura y compare su relación con el cerro antes de fijarse en piedras aisladas.",
+      "zh": "遗迹沿不平整山坡分布，不像展厅那样处在同一平面。挑选高低不同的两组先看它们如何适应地形，再转向个别石块，会更容易理解整体聚落。",
+      "qu": "Ñawpa wasi tiqsikuna mana kikin pampallapichu kachkan. Hukta hanapi hukta uraypi akllay. Iskaynin qhataman imayna tupasqanta qhaway, chaymanta rumikunata rikuy."
+    }
+  },
+  "bosque-imata": {
+    "id": "628",
+    "category": "land",
+    "name": {
+      "en": "Imata stone forest",
+      "es": "Bosque De Piedras De Imata",
+      "zh": "伊马塔石林",
+      "qu": "Imata rumi sacha"
+    },
+    "photo": {
+      "en": "Use the gap between formations to separate foreground and background rocks.",
+      "es": "Use un hueco entre formaciones para separar planos de roca.",
+      "zh": "利用岩柱之间的空隙分开前后景。",
+      "qu": "Rumipa chawpi kichasqanpi ñawpaq rumita qhepa rumita t'aqay."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618803",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "Imata’s rock group lies near the boundary of the Salinas y Aguada Blanca reserve. Read the exposed shapes against the open pampa before looking for particular figures; the spacious setting is part of what makes the formations distinctive.",
+      "es": "El conjunto se encuentra cerca del límite de la reserva Salinas y Aguada Blanca. Lea las formas contra la pampa antes de buscar figuras concretas: el espacio abierto distingue a estas rocas.",
+      "zh": "石林位于萨利纳斯与阿瓜达布兰卡保护区边界附近。先看岩体与开阔高原的整体关系，再寻找某块石头像什么；空间尺度也是这片石林的重要特征。",
+      "qu": "Imatap ruminkuna Salinas y Aguada Blanca waqaychasqa allpap qayllanpi kachkan. Ñawpaqta rumikunata kichasqa pampatawan qhaway, chaymanta sapa rumip rikch'ayninta maskhay."
+    }
+  },
+  "iglesia-chivay": {
+    "id": "3820",
+    "category": "church",
+    "name": {
+      "en": "Church of the Assumption, Chivay",
+      "es": "Templo Nuestra Señora De La Asuncion",
+      "zh": "奇瓦伊圣母升天教堂",
+      "qu": "Chivaypa Asunción iglesian"
+    },
+    "photo": {
+      "en": "Stand on the side of the square rather than in the church doorway for a tower photograph.",
+      "es": "Fotografíe la torre desde un lado de la plaza y deje la puerta libre.",
+      "zh": "从广场侧方取塔景，将教堂门口留给来往者。",
+      "qu": "Pampap huk ladonmanta turrita qhaway; punkuta kichasqallata saqiy."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620276",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "The church and square have separate uses even when they share a single photograph. Walk from the civic space towards the door, noting where the forecourt begins; that threshold is the point to check local arrangements for worship and access.",
+      "es": "Iglesia y plaza cumplen funciones distintas aunque salgan juntas en una foto. Al acercarse identifique el comienzo del atrio; allí se consultan el culto y el acceso al interior.",
+      "zh": "教堂与广场常在同一张照片中出现，但各有用途。从公共空间走向正门时，留意前庭的起点，在这里核对礼拜和室内开放安排最合适。",
+      "qu": "Pampaqa llapanpaqmi, iglesiaqa mañakunapaqmi. Punkuman asuspa maypi kancha qallarin chayta qhaway. Chaypi misa pachata yaykunatawan tapuy."
+    }
+  },
+  "geiser-pinchollo": {
+    "id": "12945",
+    "category": "land",
+    "name": {
+      "en": "Pinchollo geyser",
+      "es": "Geiser Pinchollo",
+      "zh": "平乔约间歇泉",
+      "qu": "Pinchollo q'uñi yaku pukyu"
+    },
+    "photo": {
+      "en": "Use a longer framing from the local observation point to include the steam against the slope.",
+      "es": "Use un encuadre desde el punto indicado para destacar el vapor frente a la ladera.",
+      "zh": "从规定位置用稍长焦距拍蒸汽与山坡，不靠近喷口。",
+      "qu": "Rikuchisqa patamanta wapsita urqu qhatanta qhaway; t'oqoman ama asuychu."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543337",
+    "width": 1200,
+    "height": 800,
+    "discover": {
+      "en": "The setting is part of the Colca and Andagua Volcanoes UNESCO Global Geopark. Here the interesting feature is water and steam moving through a volcanic landscape. Do not infer stable footing from the colour or apparent dryness of the ground.",
+      "es": "El sitio forma parte del geoparque Colca y Volcanes de Andagua. Observe el movimiento del agua y del vapor en el paisaje volcánico; el color o la apariencia seca del suelo no indican que sea firme.",
+      "zh": "这里属于科尔卡与安达瓜火山地质公园，值得看的是火山地形中水与蒸汽的活动。地表颜色或干燥外观并不能说明脚下坚实。",
+      "qu": "Kay chiqa Colca y Volcanes de Andagua geoparquepi kachkan. Nina urqu allpapi yakup wapsip kuyuriyninta qhaway. Allpa ch'aki rikuriptinpas sinchi kasqanta ama yuyaychu."
+    }
+  },
+  "cuevas-mollepunku": {
+    "id": "1739",
+    "category": "arch",
+    "name": {
+      "en": "Mollepunku caves",
+      "es": "Cuevas De Mollepunku",
+      "zh": "莫列蓬库洞穴",
+      "qu": "Mollepunku mach'aykuna"
+    },
+    "photo": {
+      "en": "Ask the local guide about photography and keep the light off fragile imagery.",
+      "es": "Consulte las fotos con el guía y no ilumine directamente las figuras frágiles.",
+      "zh": "拍摄前询问当地向导，不用强光直射脆弱图像。",
+      "qu": "Pusaqta rikch'ay hap'iymanta tapuy; ñawpa siq'ikunaman sinchi k'anchayta ama churaychu."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=574288",
+    "width": 1156,
+    "height": 813,
+    "discover": {
+      "en": "Approach a cave opening gradually so your eyes can adapt before you look for ancient markings. Their relationship to the volcanic shelter matters as much as individual figures. Follow local restrictions on lighting and entry.",
+      "es": "Acérquese poco a poco a la boca para que la vista se adapte antes de buscar las figuras. Su relación con el abrigo volcánico importa tanto como cada motivo. Respete las restricciones de iluminación y entrada.",
+      "zh": "慢慢走近洞口，让眼睛先适应明暗变化，再寻找古代图像。图像与火山岩遮蔽空间的关系，与单个图案同样值得观察。遵守进入和照明规定。",
+      "qu": "Mach'ay punkuman allillamanta asuy, ñawiyki laqhayaman yachanankama. Chaymanta ñawpa siq'ikunata rumip puñunanwan kuska qhaway. K'anchaymanta yaykuymanta kamachiyta qatiy."
+    }
+  },
+  "santos-reyes-achoma": {
+    "id": "14316",
+    "category": "church",
+    "name": {
+      "en": "Santos Reyes Church, Achoma",
+      "es": "Templo De Los Santos Reyes",
+      "zh": "阿乔马三王教堂",
+      "qu": "Achomap Santos Reyes iglesian"
+    },
+    "photo": {
+      "en": "Frame the entrance and a neighbouring roofline from the public square.",
+      "es": "Incluya la portada y un techo vecino desde la plaza.",
+      "zh": "从广场把教堂入口与邻近屋顶放在同一画面。",
+      "qu": "Pampamanta punkuta qayllapi wasi qatatawan rikch'aypi hap'iy."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=644907",
+    "width": 1200,
+    "height": 800,
+    "discover": {
+      "en": "The alternative dedication can make maps and local directions seem to refer to different places. Check that your pin is in Achoma, then use the shared plaza and frontage as your reference before walking into the church.",
+      "es": "La advocación alternativa puede hacer creer que mapa e indicaciones señalan lugares distintos. Compruebe que el marcador esté en Achoma y tome la plaza y la portada como referencia.",
+      "zh": "教堂的另一种圣名容易让人误以为地图与问路指向两座不同建筑。先核实定位确在阿乔马，再以广场和教堂立面作为最后的现场参照。",
+      "qu": "Iskay suti kaptin mapapi huk iglesiaman hina rikurinman. Mapapi Achomapi kasqanta ñawpaqta qhaway; chaymanta pampata punkuta riqsispa yaykuy."
+    }
+  },
+  "santiago-madrigal": {
+    "id": "3828",
+    "category": "church",
+    "name": {
+      "en": "Santiago Church, Madrigal",
+      "es": "Iglesia De San Santiago De Madrigal",
+      "zh": "马德里加尔圣雅各教堂",
+      "qu": "Madrigalpa Santiago iglesian"
+    },
+    "photo": {
+      "en": "A diagonal from the plaza reveals the elongated church body.",
+      "es": "Una diagonal desde la plaza muestra el cuerpo alargado del templo.",
+      "zh": "广场上的斜向角度能表现中殿的长度。",
+      "qu": "Pampap k'uchunmanta iglesiap sunin kaqninta qhaway."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=580541",
+    "width": 1162,
+    "height": 831,
+    "discover": {
+      "en": "From the west side of the square the church's long hall can be read both as a religious building and as a strong town boundary. Walk one length of the plaza before entering to see the full relationship.",
+      "es": "Al oeste de la plaza, la sala alargada del templo marca también un límite urbano. Recorra uno de los lados largos de la plaza antes de entrar para comprender esa relación.",
+      "zh": "教堂位于广场西侧，长长的建筑既是宗教场所，也界定了城镇空间的一侧。进门前先走完广场一条长边，更容易理解两者之间的关系。",
+      "qu": "Pampap inti haykuna ladonpi suni iglesiaqa pampap saywan hinam. Manaraq yaykuchkaspa suni patanta puriy, iglesiata pampatawan kuska rikunaykipaq."
+    }
+  },
+  "mirador-achomani": {
+    "id": "13754",
+    "category": "arch",
+    "name": {
+      "en": "Achomani archaeological lookout",
+      "es": "Mirador De Achomani - Sector San Miguel",
+      "zh": "阿乔马尼考古观景处",
+      "qu": "Achomani ñawpa llaqta qhawana"
+    },
+    "photo": {
+      "en": "Include the ruins in front of the valley from a location off the structures.",
+      "es": "Incluya los vestigios ante el valle sin subir a las estructuras.",
+      "zh": "在遗迹之外把石土残墙与远处河谷同框。",
+      "qu": "Pirqakunaman mana siqaspa ñawpa pirqata wayq'uta rimayllapi qhaway."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613917",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "Distinctive to this lookout are the traces of an earlier settlement of stone and earth. Compare one surviving wall with the natural line of the ridge; it helps separate the human-made enclosure from the native rock.",
+      "es": "Este mirador conserva huellas de un asentamiento de piedra y barro. Compare un muro con la línea de la loma para distinguir el recinto construido de la roca natural.",
+      "zh": "这处观景点还保存石土聚落的痕迹。选一道残墙与山脊的天然走向相比较，能较容易地区分人工围护与自然岩面。",
+      "qu": "Kay qhawanapi ñawpa rumi mit'u llaqtap yupin kanraq. Huk pirqata urqu wasanpa siq'inwan tinkuchiy; runap ruwasqanta pachap ruminmanta t'aqay."
+    }
+  },
+  "san-pedro-tisco": {
+    "id": "14333",
+    "category": "church",
+    "name": {
+      "en": "San Pedro Apóstol Church, Tisco",
+      "es": "Templo De San Pedro Apostol De Tisco",
+      "zh": "蒂斯科圣彼得教堂",
+      "qu": "Tiscop San Pedro Apóstol iglesian"
+    },
+    "photo": {
+      "en": "A street approach gives the church the scale of the surrounding highland village.",
+      "es": "Desde la calle de acceso se aprecia la escala del templo en el pueblo alto.",
+      "zh": "从进镇街道将教堂放回高原聚落的尺度中。",
+      "qu": "Llaqtaman yaykuna kallimanta iglesiata llaqtatawan qhaway."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=644598",
+    "width": 600,
+    "height": 900,
+    "discover": {
+      "en": "A church visit in Tisco is also a chance to read a small highland settlement. Look back from the public forecourt to the streets you entered by. The return view shows how closely this colonial monument is connected to the daily town.",
+      "es": "En Tisco la visita sirve para leer el poblado alto. Desde el atrio público vuelva la vista a las calles de llegada y observe cómo el monumento colonial se relaciona con la vida diaria.",
+      "zh": "参观蒂斯科教堂也提供了观察高原小镇的机会。从公共前庭回看刚走过的街道，更能体会这座殖民时期建筑如何嵌入当地日常生活。",
+      "qu": "Tiscopi iglesiata watukuspa hanaq llaqtatapas riqsinki. Kanchamanta hamusqayki kallikunata qhaway. Ñawpa iglesia sapa p'unchaw llaqta kawsaywan tinkusqata rikunki."
+    }
+  },
+  "llipta-llipta": {
+    "id": "14032",
+    "category": "trail",
+    "name": {
+      "en": "Llipta Llipta lookout",
+      "es": "Mirador De Llipta Llipta",
+      "zh": "利普塔利普塔观景处",
+      "qu": "Llipta Llipta qhawana pata"
+    },
+    "photo": {
+      "en": "Keep ceremonial activity out of the frame unless its participants invite photography.",
+      "es": "Deje las ceremonias fuera de la foto salvo invitación de quienes participan.",
+      "zh": "除非参与者主动同意，避免将仪式摄入画面。",
+      "qu": "Haywariq runakuna mana saqiptinku haywariyta rikch'aypi ama hap'iychu."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546423",
+    "width": 952,
+    "height": 519,
+    "discover": {
+      "en": "Local descriptions associate the lookout with the mountains regarded as protectors of Sibayo. Give that context room in the visit: pause before taking photographs and ask which parts of the hill are appropriate for visitors.",
+      "es": "La descripción local relaciona el mirador con los apus tutelares de Sibayo. Haga una pausa antes de fotografiar y consulte qué partes del cerro corresponden a los visitantes.",
+      "zh": "当地介绍将此处与守护锡瓦约的神圣山峰联系在一起。先停留观察，询问山坡哪些区域适合游客，再决定取景位置。",
+      "qu": "Kay qhawanata Sibayop apunkunawan tinkuchinku. Manaraq rikch'ayta hap'ichkaspa asllata sayay. Urqup mayqin rak'inman watukuq yaykuyta atin chayta tapuy."
+    }
+  },
+  "plaza-chivay": {
+    "id": "13879",
+    "category": "town",
+    "name": {
+      "en": "Chivay main square",
+      "es": "Plaza Principal De Chivay",
+      "zh": "奇瓦伊主广场",
+      "qu": "Chivaypa hatun pampan"
+    },
+    "photo": {
+      "en": "Look diagonally across the plaza from one corner to show its street connections.",
+      "es": "Desde una esquina mire en diagonal para mostrar las calles que llegan a la plaza.",
+      "zh": "从一角斜拍，表现几条街道与广场的联系。",
+      "qu": "Huk k'uchumanta qhawaspa pampaman chayaq kallikunata rikuchiy."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=617320",
+    "width": 1200,
+    "height": 900,
+    "discover": {
+      "en": "A perimeter walk helps separate the square’s everyday role from its use for fairs and community gatherings. Notice where pedestrians cross it directly and where they linger under the edges of surrounding buildings.",
+      "es": "Recorrer el perímetro distingue el uso diario de las ferias y reuniones. Observe dónde la gente cruza directamente y dónde se detiene en el borde de los edificios.",
+      "zh": "沿外围步行，可区分广场的日常通行与举办集市、聚会的用途。留意行人在哪些地方径直穿行，又会在哪些建筑边缘驻足。",
+      "qu": "Pampap muyuntinta purispa sapa p'unchaw kawsayta qhatu pachamanta t'aqay. Maypi runakuna chiqanta chimpanku, maypitaq wasi qayllapi sayanku, chayta qhaway."
+    }
+  },
+  "pueblo-madrigal": {
+    "id": "8581",
+    "category": "town",
+    "name": {
+      "en": "Madrigal village",
+      "es": "Pueblo De Madrigal",
+      "zh": "马德里加尔镇",
+      "qu": "Madrigal llaqta"
+    },
+    "photo": {
+      "en": "Use the long axis of the plaza to lead the view towards the surrounding peaks.",
+      "es": "Use el eje largo de la plaza para guiar la vista hacia los nevados.",
+      "zh": "沿广场长轴取景，把视线引向周围山峰。",
+      "qu": "Suni pampata qatipaspa rit'iyuq urqukunaman qhaway."
+    },
+    "imageSource": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=580546",
+    "width": 1200,
+    "height": 789,
+    "discover": {
+      "en": "Stand at one short end of the long square and look along it, then walk to the other end and repeat. The buildings stay much the same, but the surrounding mountains change; this comparison locates Madrigal in the valley better than a close photograph.",
+      "es": "Desde un extremo corto de la plaza mire a lo largo y repita en el opuesto. Cambian las montañas del fondo aunque se mantengan los edificios; así se sitúa Madrigal en el valle.",
+      "zh": "从狭长广场的一端纵向观察，再到另一端重复。建筑仍是同一组，背景山峰却发生变化，比只拍局部更能理解马德里加尔在河谷中的位置。",
+      "qu": "Suni pampap huk tukukuyninpi sayaspa suninta qhaway. Huknin tukukuyninmanta wakmanta qhaway. Wasikuna kikillan, qhepa urqukunataq huk hina rikurinku."
+    }
+  }
+}

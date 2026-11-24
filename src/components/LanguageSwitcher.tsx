@@ -20,7 +20,9 @@ export function LanguageSwitcher() {
           className={`lang-btn ${locale === l ? "active" : ""}`}
           onClick={() => {
             if (l !== locale) {
-              window.location.href = `/${l}${window.location.hash}`;
+              const url = new URL(window.location.href);
+              url.pathname = url.pathname.replace(/^\/(en|es|zh|qu)(?=\/|$)/, '/' + l);
+              window.location.assign(url.toString());
             }
           }}
           aria-label={`Switch to ${l}`}

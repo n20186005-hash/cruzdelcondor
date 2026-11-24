@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 
+import places from '@/i18n/colca-places.json';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -13,6 +14,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   };
 
   return [
+    ...['nearby', ...Object.keys(places).map(s => 'nearby/'+s)].flatMap(path => {
+      const links = Object.fromEntries(Object.keys(languages).map(l=>[l, `https://www.cruzdelcondor.com/${l}/${path}`]));
+      return Object.values(links).map(url=>({url, alternates:{languages:links}}));
+    }),
     {
       url: `${baseUrl}/en`,
       lastModified: new Date(),
