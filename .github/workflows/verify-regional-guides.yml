@@ -5,24 +5,40 @@ on:
 permissions:
   contents: write
 jobs:
-  verify:
+  inspect:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 18
     steps:
       - uses: actions/checkout@v4
+        with:
+          path: verification
+      - uses: actions/checkout@v4
+        with:
+          ref: '3995ca055601d51aabb714b5997b2038b6b44aee'
+          path: candidate
+          persist-credentials: false
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
-      - name: Prepare official destination photographs
+      - name: Build and verify route bodies
+        id: build
+        working-directory: candidate
         run: |
-          python -m pip install --quiet pillow
-          python scripts/collect-colca-official-images.py
+          set -eo pipefail
+          python -m pip install --quiet lxml
+          npm ci --no-fund --no-audit > /tmp/dependencies.log 2>&1
+          npm run build > /tmp/colca-build.log 2>&1
+          python ../verification/scripts/verify-colca-release.py ../verification/guide-local.json
+      - name: Preserve release evidence on the verification branch
+        if: always()
+        working-directory: verification
+        run: |
+          { printf '%s\n' 'Candidate 3995ca055601d51aabb714b5997b2038b6b44aee'; tail -60 /tmp/dependencies.log; tail -85 /tmp/colca-build.log; } > guide-build.log
           git config user.name 'Regional guide verification'
           git config user.email 'regional-guide-check@users.noreply.github.com'
-          git add public/nearby colca-media.json
+          git add guide-build.log
+          if test -e guide-local.json; then git add guide-local.json; fi
           if ! git diff --cached --quiet; then
-            git commit -m 'Preserve verified official photographs for 31 Colca destinations'
+            git commit -m 'Preserve candidate build and per-route checks'
             git push origin HEAD:refs/heads/verify-regional-guides-152
           fi
-      - run: npm ci --no-audit --no-fund
-      - run: npm run build
