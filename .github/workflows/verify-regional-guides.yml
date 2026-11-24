@@ -7,40 +7,21 @@ permissions:
 jobs:
   verify:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
-      - name: Inspect official photo references
+      - name: Prepare official destination photographs
         run: |
-          python - <<'PY' | tee /tmp/colca-official-images.txt
-          import html, json, re, urllib.request
-          from concurrent.futures import ThreadPoolExecutor
-          def photos(row):
-              try:
-                  with urllib.request.urlopen(row['url'],timeout=15) as r:
-                      body = html.unescape(r.read().decode('utf-8','replace'))
-                  images = sorted(set(re.findall(r'(?i)(?:foto(?:grafia)?\.aspx\?cod=\d+|https?://[^"\s<>]+\.(?:jpe?g|webp))',body)))
-                  print('PHOTO',row['id'],json.dumps(images[:12]),flush=True)
-                  if row['id']==4746:
-                      for line in body.splitlines():
-                          if any(k in line.lower() for k in ['.aspx?cod','galeri','foto.aspx']):
-                              print('GALLERY',line.strip()[:300])
-              except Exception as exc:
-                  print('SOURCE',row['id'],type(exc).__name__)
-          with ThreadPoolExecutor(max_workers=3) as pool:
-              list(pool.map(photos,json.load(open('src/i18n/colca-inventory.json'))))
-          PY
-      - name: Save source inspection on verification branch
-        run: |
-          cp /tmp/colca-official-images.txt colca-official-images.txt
+          python -m pip install --quiet pillow
+          python scripts/collect-colca-official-images.py
           git config user.name 'Regional guide verification'
           git config user.email 'regional-guide-check@users.noreply.github.com'
-          git add colca-official-images.txt
+          git add public/nearby colca-media.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Record official inventory image references for candidate verification'
+            git commit -m 'Preserve verified official photographs for 31 Colca destinations'
             git push origin HEAD:refs/heads/verify-regional-guides-152
           fi
       - run: npm ci --no-audit --no-fund
