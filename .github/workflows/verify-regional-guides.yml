@@ -3,7 +3,7 @@ on:
   push:
     branches: [verify-regional-guides-152]
 permissions:
-  contents: read
+  contents: write
 jobs:
   verify:
     runs-on: ubuntu-latest
@@ -15,7 +15,7 @@ jobs:
           node-version: '24'
       - name: Inspect official photo references
         run: |
-          python - <<'PY'
+          python - <<'PY' | tee /tmp/colca-official-images.txt
           import html, json, re, urllib.request
           from concurrent.futures import ThreadPoolExecutor
           def photos(row):
@@ -33,5 +33,15 @@ jobs:
           with ThreadPoolExecutor(max_workers=3) as pool:
               list(pool.map(photos,json.load(open('src/i18n/colca-inventory.json'))))
           PY
+      - name: Save source inspection on verification branch
+        run: |
+          cp /tmp/colca-official-images.txt colca-official-images.txt
+          git config user.name 'Regional guide verification'
+          git config user.email 'regional-guide-check@users.noreply.github.com'
+          git add colca-official-images.txt
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record official inventory image references for candidate verification'
+            git push origin HEAD:refs/heads/verify-regional-guides-152
+          fi
       - run: npm ci --no-audit --no-fund
       - run: npm run build
